@@ -1,3 +1,20 @@
+
+### 6. astral-sh/uv-fastapi-example
+- **URL:** https://github.com/astral-sh/uv-fastapi-example
+- **Stars:** 159
+- **Forks:** 32
+- **Contributors:** 3
+- **Type:** Web Application / Official Example
+- **UV Version:** 0.9.x (latest)
+- **License:** MIT
+- **Language:** Python 88.6%, Dockerfile 11.4%
+- **Main Dependencies:** FastAPI with full feature set, uvicorn
+- **Key Features:** Multi-file application structure, Docker containerization
+- **Why Analyzed:** Official Astral example, reference implementation
+
+---
+
+
 # uv-fastapi-example
 
 An example of a [FastAPI](https://github.com/fastapi/fastapi) application managed as a
